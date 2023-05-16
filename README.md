@@ -11,5 +11,5 @@
 1. リポジトリをクローンします。
 
 ```bash
-$ git clone https://github.com/your_username/your_project.git
-$ cd your_project
+$ git clone https://github.com/koki1229/trn_fast_api
+$ cd trn_fast_api
